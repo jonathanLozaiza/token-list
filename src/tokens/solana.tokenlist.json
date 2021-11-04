@@ -59,6 +59,20 @@
   "tokens": [
     {
       "chainId": 101,
+      "address": "CggXkMoMVek9KjihaLoB7z3jJUjQudS1W7eDwimoPjpV",
+      "symbol": "MAPINU",
+      "name": "MAPACHE INU",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CggXkMoMVek9KjihaLoB7z3jJUjQudS1W7eDwimoPjpV/channels4_profile.png",
+      "tags": [
+        "Mapache Finanzas"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/S4HbGtbR"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "7QTcx3LuVfPSZxVzFJcTmbpQCL35jkfoNSzx4qouX495",
       "symbol": "AKELA",
       "name": "AKELA",
